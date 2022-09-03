@@ -2,10 +2,10 @@
 Title 			: 	A Program to calculate the Sum and Product of two large numbers (say 50 digits)
 Group Number 	: 	3
 Group Members 	:
-					1. Pennada Manoj Harshavardhan Teja - 	AP21110010547
-					2. Sarvani Panchumarthy 			- 	AP21110010548
-					3. Darapureddy Rahul Sarvesh 		- 	AP21110010550
-					4. Vuhaaditya Kancharalapalli 		- 	AP21110010554
+					1. Pennada Manoj Harshavardhan Teja 	- 	AP21110010547 - Team Lead and Logic Designer
+					2. Sarvani Panchumarthy 		- 	AP21110010548 - Testing and Documentation
+					3. Darapureddy Rahul Sarvesh 		- 	AP21110010550 - Programmer and Debugger
+					4. Vuhaaditya Kancharalapalli 		- 	AP21110010554 - Suggestions and Visualisations creator
 */
 
 #include <stdio.h>
